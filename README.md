@@ -1,0 +1,1 @@
+"IT for Science" is an educational single-page website that explores the profound impact of information technology on scientific research. Built with HTML, CSS, and JavaScript, the project highlights how computers facilitate complex data analysis, predictive modeling, and global data sharing. It was developed to demonstrate fundamental frontend web development skills.
